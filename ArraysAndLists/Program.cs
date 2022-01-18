@@ -8,7 +8,7 @@ namespace ArraysAndLists
     {
         static void Main(string[] args)
         {
-            //TODO:
+            //DONE!:
 
             // Create an int Array and populate numbers 1-10
             var numbers = new int[10];
